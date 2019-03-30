@@ -11,9 +11,9 @@ const char* password = "WLAN_PASSWORD";
 ```
 
 Der ESP ist erreichbar unter folgenden links
-http://esp8266.local/relay_on
-http://esp8266.local/relay_off
-http://esp8266.local/state
+* http://esp8266.local/relay_on - Schaltet das Relais an
+* http://esp8266.local/relay_off -  Schlatet das Relais aus
+* http://esp8266.local/state - Zeigt den Schaltzustand des Relais 0 / 1
 
 
 Die Signalleitung des Relaismoduls kommt an D1.
