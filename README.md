@@ -24,3 +24,9 @@ int relay_pin = 5; //D1
 
 Hier nochmal alle Pins mit den dazugehörigen Nummern.
 https://github.com/makesmartnet/esp8266-pin-definitions
+
+
+
+Diesen Schalter in Homekit einbinden:
+https://github.com/makesmartnet/homebridge-http-switch-example
+https://www.youtube.com/watch?v=MWYLtgmZU5k
