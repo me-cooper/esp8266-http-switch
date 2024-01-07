@@ -63,7 +63,10 @@ void setup()
 }
 
 void loop() {
+
   server.handleClient();  
+  MDNS.update();
+  
 }
 
 void relay_on(){
